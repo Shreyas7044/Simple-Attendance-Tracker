@@ -55,5 +55,3 @@ in an Excel file and automatically sends warning or shortage emails.
 
 ## 📷 Screenshot
 ![Application Screenshot](Simple-Attendance-Tracker/screenshot1.png)
-
-![Application Screenshot](Simple-Attendance-Tracker/screenshot2.png)
